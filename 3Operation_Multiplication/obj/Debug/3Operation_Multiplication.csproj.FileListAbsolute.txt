@@ -1,0 +1,8 @@
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\3Operation_Multiplication\3Operation_Multiplication\bin\Debug\3Operation_Multiplication.exe.config
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\3Operation_Multiplication\3Operation_Multiplication\bin\Debug\3Operation_Multiplication.exe
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\3Operation_Multiplication\3Operation_Multiplication\bin\Debug\3Operation_Multiplication.pdb
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\3Operation_Multiplication\3Operation_Multiplication\obj\Debug\3Operation_Multiplication.csproj.AssemblyReference.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\3Operation_Multiplication\3Operation_Multiplication\obj\Debug\3Operation_Multiplication.csproj.SuggestedBindingRedirects.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\3Operation_Multiplication\3Operation_Multiplication\obj\Debug\3Operation_Multiplication.csproj.CoreCompileInputs.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\3Operation_Multiplication\3Operation_Multiplication\obj\Debug\3Operation_Multiplication.exe
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\3Operation_Multiplication\3Operation_Multiplication\obj\Debug\3Operation_Multiplication.pdb
